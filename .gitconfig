@@ -1,0 +1,15 @@
+[user]
+	name = Nami Sunami
+	email = nsunami@pm.me
+[commit]
+	gpgsign = true
+[core]
+	ignorecase = false
+    editor = nano
+[gpg]
+	program = /usr/local/bin/gpg
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true
+	default = current
